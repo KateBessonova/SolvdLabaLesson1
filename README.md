@@ -1,0 +1,2 @@
+# SolvdLabaLesson1
+QuickSortJavaAlgo
